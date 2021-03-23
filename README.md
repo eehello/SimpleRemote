@@ -23,6 +23,8 @@
 
 - #### 保存的远程连接信息经过加密，支持自定义密码
 
+PS:需要.Net Framework 4.5 或更高版本
+
 ### 截图：
 
 ![contraction](https://github.com/beckzhu/SimpleRemote/blob/master/assets/contraction.png?raw=true)
